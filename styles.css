@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
 span:nth-child(2n+1){
     color: rgb(255, 0, 0);
-	font-size: 20px;
+	/*font-size: 20px;*/
 }
